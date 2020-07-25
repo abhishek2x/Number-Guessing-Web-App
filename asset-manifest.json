@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/abhishek2x/Number-Guessing-Web-App/static/js/main.954c1131.chunk.js",
-    "main.js.map": "/abhishek2x/Number-Guessing-Web-App/static/js/main.954c1131.chunk.js.map",
-    "runtime-main.js": "/abhishek2x/Number-Guessing-Web-App/static/js/runtime-main.cd0dad9d.js",
-    "runtime-main.js.map": "/abhishek2x/Number-Guessing-Web-App/static/js/runtime-main.cd0dad9d.js.map",
-    "static/js/2.b55185c7.chunk.js": "/abhishek2x/Number-Guessing-Web-App/static/js/2.b55185c7.chunk.js",
-    "static/js/2.b55185c7.chunk.js.map": "/abhishek2x/Number-Guessing-Web-App/static/js/2.b55185c7.chunk.js.map",
-    "index.html": "/abhishek2x/Number-Guessing-Web-App/index.html",
-    "precache-manifest.94024d00238bee82d740622f2429dd31.js": "/abhishek2x/Number-Guessing-Web-App/precache-manifest.94024d00238bee82d740622f2429dd31.js",
-    "service-worker.js": "/abhishek2x/Number-Guessing-Web-App/service-worker.js",
-    "static/js/2.b55185c7.chunk.js.LICENSE.txt": "/abhishek2x/Number-Guessing-Web-App/static/js/2.b55185c7.chunk.js.LICENSE.txt"
+    "main.js": "/Number-Guessing-Web-App/static/js/main.954c1131.chunk.js",
+    "main.js.map": "/Number-Guessing-Web-App/static/js/main.954c1131.chunk.js.map",
+    "runtime-main.js": "/Number-Guessing-Web-App/static/js/runtime-main.d71638e4.js",
+    "runtime-main.js.map": "/Number-Guessing-Web-App/static/js/runtime-main.d71638e4.js.map",
+    "static/js/2.b55185c7.chunk.js": "/Number-Guessing-Web-App/static/js/2.b55185c7.chunk.js",
+    "static/js/2.b55185c7.chunk.js.map": "/Number-Guessing-Web-App/static/js/2.b55185c7.chunk.js.map",
+    "index.html": "/Number-Guessing-Web-App/index.html",
+    "precache-manifest.d39223554059e27aaf915f6c57f45735.js": "/Number-Guessing-Web-App/precache-manifest.d39223554059e27aaf915f6c57f45735.js",
+    "service-worker.js": "/Number-Guessing-Web-App/service-worker.js",
+    "static/js/2.b55185c7.chunk.js.LICENSE.txt": "/Number-Guessing-Web-App/static/js/2.b55185c7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd0dad9d.js",
+    "static/js/runtime-main.d71638e4.js",
     "static/js/2.b55185c7.chunk.js",
     "static/js/main.954c1131.chunk.js"
   ]
